@@ -3,3 +3,5 @@ resource "null_resource" "test" {
   }
 
 #1
+
+# hope it's works
