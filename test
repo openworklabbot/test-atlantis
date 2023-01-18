@@ -1,7 +1,4 @@
 resource "null_resource" "test" {
   triggers = "string"
   }
-
-#1
-
 # hope it's works
